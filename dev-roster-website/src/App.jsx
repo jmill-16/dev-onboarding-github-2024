@@ -13,7 +13,7 @@ function App() {
         </ul>
         <h2>Bread & Roses</h2>
         <ul>
-          <li>Test Developer Name</li>
+          <li>Jason Miller</li>
           <li>Test Developer Name</li>
         </ul>
         <h2>Dillar Academy</h2>
